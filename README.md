@@ -33,6 +33,5 @@ O projeto gera duas saídas principais:
    pip install -r requirements.txt
 
 2.  Execute o script principal:
-
 ```bash
     python main.py
